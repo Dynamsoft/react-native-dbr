@@ -55,7 +55,7 @@ react-native run-android
 
 ### In Android
 
-1. Create a new React Native project if you donnot have one.
+1. Create a new React Native project if you don't have one.
 
     ```bash
     react-native init NewProject
@@ -118,7 +118,7 @@ react-native run-android
 
 ### In iOS
 
-1. Create a new React Native project if you donnot have one.
+1. Create a new React Native project if you don't have one.
 
     ```bash
     react-native init NewProject
